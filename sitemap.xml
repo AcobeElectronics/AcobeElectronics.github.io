@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://acobestudio.co/404-1.html</loc>
+        <loc>https://acobestudio.com/404.html</loc>
     </url>
     <url>
-        <loc>https://acobestudio.co/cancel.html</loc>
+        <loc>https://acobestudio.com/</loc>
     </url>
     <url>
-        <loc>https://acobestudio.co/</loc>
+        <loc>https://acobestudio.com/mandtenimiento.html</loc>
     </url>
     <url>
-        <loc>https://acobestudio.co/mandtenimiento.html</loc>
+        <loc>https://acobestudio.com/perfil.html</loc>
     </url>
     <url>
-        <loc>https://acobestudio.co/perfil.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.co/terminos.html</loc>
+        <loc>https://acobestudio.com/terminos.html</loc>
     </url>
 </urlset>
