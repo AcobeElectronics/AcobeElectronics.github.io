@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>https://acobestudio.com/terminos/privacidad.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosbots.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosdemarca.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosdestore.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosdiscord.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosnetworks.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosold.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosrecursos.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminosservidores.html</loc>
+    </url>
+    <url>
+        <loc>https://acobestudio.com/terminos/terminossitioswebs.html</loc>
+    </url>
+    <url>
         <loc>https://acobestudio.com/404.html</loc>
     </url>
     <url>
@@ -16,36 +46,6 @@
         <loc>https://acobestudio.com/perfil.html</loc>
     </url>
     <url>
-        <loc>https://acobestudio.com/privacidad.html</loc>
-    </url>
-    <url>
         <loc>https://acobestudio.com/terminos.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosbots.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosdemarca.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosdestore.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosdiscord.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosnetworks.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosold.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosrecursos.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminosservidores.html</loc>
-    </url>
-    <url>
-        <loc>https://acobestudio.com/terminossitioswebs.html</loc>
     </url>
 </urlset>
